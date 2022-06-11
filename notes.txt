@@ -1,0 +1,6 @@
+Getting Started with Linux
+
+This is a text editor 
+    nano name.txt
+
+

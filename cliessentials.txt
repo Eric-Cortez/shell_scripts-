@@ -1,0 +1,24 @@
+cd - change directoru 
+pwd
+ls 
+cp - copy
+    file to copy    path to destination where you want the file copied to 
+cp notes.txt ..  
+
+
+mv - move 
+    filename        path to destination where you want to move to 
+mv notes.txt /Users/ericcortez/Downloads/shell_scripts 
+
+rm - remove 
+
+echo - shell version of print 
+cat - concat ---> this shows you the contents of the file 
+less - same as cat but opens in a new window (much cleaner way)
+
+grep - grabs the data from a file or command you are looking for 
+
+mkdir - make directory
+touch - make file
+chomd - 
+man + help 
